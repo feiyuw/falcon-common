@@ -22,7 +22,7 @@ import (
 	"log"
 	"net/http"
 
-	"dev.dingxiang-inc.com/aladdin/falcon-common/model"
+	"github.com/feiyuw/falcon-common/model"
 )
 
 func PostPush(L []*model.JsonMetaData) error {

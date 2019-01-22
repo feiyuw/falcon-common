@@ -1,7 +1,7 @@
 package logger
 
 import (
-	"dev.dingxiang-inc.com/aladdin/falcon-common/dlog"
+	"github.com/feiyuw/falcon-common/dlog"
 	"log"
 	"os"
 )

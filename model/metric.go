@@ -17,7 +17,7 @@ package model
 import (
 	"fmt"
 
-	MUtils "dev.dingxiang-inc.com/aladdin/falcon-common/utils"
+	MUtils "github.com/feiyuw/falcon-common/utils"
 )
 
 type MetricValue struct {

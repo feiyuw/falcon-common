@@ -17,7 +17,7 @@ package model
 import (
 	"fmt"
 
-	"dev.dingxiang-inc.com/aladdin/falcon-common/utils"
+	"github.com/feiyuw/falcon-common/utils"
 	ttime "github.com/toolkits/time"
 )
 

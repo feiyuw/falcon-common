@@ -18,7 +18,7 @@ import (
 	"container/list"
 	"sync"
 
-	"dev.dingxiang-inc.com/aladdin/falcon-common/model"
+	"github.com/feiyuw/falcon-common/model"
 )
 
 type SafeLinkedList struct {

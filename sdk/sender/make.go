@@ -17,7 +17,7 @@ package sender
 import (
 	"time"
 
-	"dev.dingxiang-inc.com/aladdin/falcon-common/model"
+	"github.com/feiyuw/falcon-common/model"
 )
 
 func MakeMetaData(endpoint, metric, tags string, val interface{}, counterType string, step_and_ts ...int64) *model.JsonMetaData {
